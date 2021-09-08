@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    {{>head}}
+    <body id="page-top" class="admin-margin">
+        {{>navbar}}
+        <div class="row justify-content-center">
+            <div class="col-sm-6">
+                {{#each register}}
+                <div class="card mb-2 text-center">
+                    <div class="card-body mb-4">
+                        <h5 class="card-title">{{brand}}</h5>
+                        <p class="card-text">{{model}}</p>
+                        <p class="card-text">{{year}}</p>
+                        <p class="card-text">{{phone}}</p>
+                        <p class="card-text">{{date}}</p>
+                        <p class="card-text">{{message}}</p>
+                        <form method="POST" action="/delete">
+                        <input type="hidden" name="nr" value="{{@index}}">
+                        <input type="submit" name="delete" value="delete">
+                        </form>
+                    </div>
+                </div>
+                {{~/each}}
+            </div>
+        </div>
+       {{>footer}}
+    {{>javascript}}
+    </body>
+</html>

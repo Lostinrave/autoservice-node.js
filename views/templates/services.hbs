@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    {{>head}}
+    <body id="page-top">
+        {{>navbar}}
+        <!-- Masthead-->
+    <section class="page-section mt-5">
+        <div class="container">
+            <h2 class="page-section-heading text-center text-uppercase text-dark mb-0">
+                {{title}}
+            </h2>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-xl-7">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Service</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{#each services}}
+                    <tr>
+                        <td>{{FIELD1}}</td>
+                        <td>{{FIELD2}}</td>
+
+                    </tr>
+                    {{~/each}}
+                </tbody>
+            </table>
+            </div>
+        </div>
+    </section>
+        {{>footer}}
+        {{>javascript}}
+    </body>
+</html>

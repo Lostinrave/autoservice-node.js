@@ -1,0 +1,502 @@
+[
+    {
+      "FIELD1": "Variklio remontas",
+      "FIELD2": ""
+    },
+    {
+      "FIELD1": "Kapitalinis variklio remontas",
+      "FIELD2": "nuo 150"
+    },
+    {
+      "FIELD1": "Pagrindinio diržo keitimas",
+      "FIELD2": "nuo 120 €"
+    },
+    {
+      "FIELD1": "Žvakių keitimas",
+      "FIELD2": "nuo 3 €"
+    },
+    {
+      "FIELD1": "Pakaitinimo žvakių keitimas",
+      "FIELD2": "nuo 5 €"
+    },
+    {
+      "FIELD1": "Pavarų dėžės remontas",
+      "FIELD2": ""
+    },
+    {
+      "FIELD1": "Mechaninės pavarų dėžės remontas",
+      "FIELD2": "nuo 60 €"
+    },
+    {
+      "FIELD1": "Automatinės pavarų dėžės remontas",
+      "FIELD2": "nuo 150 €"
+    },
+    {
+      "FIELD1": "Automobilių techninis aptarnavimas ir remontas:",
+      "FIELD2": ""
+    },
+    {
+      "FIELD1": "Rato nuėmimas/pastatymas",
+      "FIELD2": "nuo 2,5 €"
+    },
+    {
+      "FIELD1": "Ratų montavimas",
+      "FIELD2": "nuo 4 €"
+    },
+    {
+      "FIELD1": "Ratų balansavimas",
+      "FIELD2": "nuo 4 €"
+    },
+    {
+      "FIELD1": "Padangų montavimas/balansavimas ( 4 vnt.) Metaliniai diskai",
+      "FIELD2": "nuo 25 €"
+    },
+    {
+      "FIELD1": "Padangų montavimas/balansavimas ( 4 vnt.) Lieti diskai",
+      "FIELD2": "nuo 30 €"
+    },
+    {
+      "FIELD1": "Padangų montavimas/balansavimas ( 4 vnt.) Džipams, busams",
+      "FIELD2": "30-50 €"
+    },
+    {
+      "FIELD1": "Padangų montavimas/balansavimas ( 4 vnt.) 17-24 diametro",
+      "FIELD2": "30-60 €"
+    },
+    {
+      "FIELD1": "Ratų saugojimas iki kito sezono",
+      "FIELD2": "nuo 18 €"
+    },
+    {
+      "FIELD1": "Padangų remontas",
+      "FIELD2": "4-30 €"
+    },
+    {
+      "FIELD1": "Ratlankio lyginimas",
+      "FIELD2": "nuo 20 €"
+    },
+    {
+      "FIELD1": "Suvirinimo darbai (1 val.)",
+      "FIELD2": "nuo 30 €"
+    },
+    {
+      "FIELD1": "Šaltkalvio darbai (1 val.)",
+      "FIELD2": "nuo 28 €"
+    },
+    {
+      "FIELD1": "Priekinių žibintų reguliavimas",
+      "FIELD2": "nuo 10 €"
+    },
+    {
+      "FIELD1": "Lemputės keitimas žibinte",
+      "FIELD2": "nuo 3 €"
+    },
+    {
+      "FIELD1": "Tepalų keitimas variklyje",
+      "FIELD2": "nuo 0 €"
+    },
+    {
+      "FIELD1": "Tepalų keitimas pavarų dėžeje mechaninėje",
+      "FIELD2": "nuo 20 €"
+    },
+    {
+      "FIELD1": "Tepalų keitimas pavarų dėžeje automatinėje",
+      "FIELD2": "nuo 30 €"
+    },
+    {
+      "FIELD1": "Tepalų keitimas reduktoriuje",
+      "FIELD2": "nuo 15 €"
+    },
+    {
+      "FIELD1": "Oro filtro keitimas",
+      "FIELD2": "nuo 0 €"
+    },
+    {
+      "FIELD1": "Kuro filtro keitimas",
+      "FIELD2": "nuo 5 €"
+    },
+    {
+      "FIELD1": "Važiuoklės patikra",
+      "FIELD2": "nuo 15 €"
+    },
+    {
+      "FIELD1": "Variklio alyvos lygio patikrinimas ir papildymas",
+      "FIELD2": "nuo 5 €"
+    },
+    {
+      "FIELD1": "Pavarų dežės alyvos lygio patikrinimas ir papildymas",
+      "FIELD2": "nuo 10 €"
+    },
+    {
+      "FIELD1": "Reduktoriaus alyvos lygio patikrinimas ir papildymas",
+      "FIELD2": "nuo 10 €"
+    },
+    {
+      "FIELD1": "Eksploatacinių skysčių lygio patikrinimas ir papildymas",
+      "FIELD2": "nuo 5 €"
+    },
+    {
+      "FIELD1": "Elektrolito lygio akumuliatoriuje patikrinimas ir papildymas",
+      "FIELD2": "nuo 5 €"
+    },
+    {
+      "FIELD1": "Aušinimo skysčio keitimas su nuorinimu",
+      "FIELD2": "nuo 25 €"
+    },
+    {
+      "FIELD1": "Stiklo apiplovimo siurbliuko keitimas",
+      "FIELD2": "nuo 10 €"
+    },
+    {
+      "FIELD1": "Kompresijos matavimas benzininiam/dyzeliniam varikliui, cil.",
+      "FIELD2": "nuo 5/10 €"
+    },
+    {
+      "FIELD1": "Oil (servis) intervalo nulinimas",
+      "FIELD2": "nuo 10 €"
+    },
+    {
+      "FIELD1": "Važiuoklė",
+      "FIELD2": ""
+    },
+    {
+      "FIELD1": "Ratų geometrijos reguliavimas",
+      "FIELD2": "nuo 25 €"
+    },
+    {
+      "FIELD1": "Apatinės šakės sailentblokų keitimas",
+      "FIELD2": "20-35 €"
+    },
+    {
+      "FIELD1": "Viršutinės šakės sailentblokų keitimas",
+      "FIELD2": "20-40 €"
+    },
+    {
+      "FIELD1": "Apatinės šakės šarnyro keitimas",
+      "FIELD2": "15-30 €"
+    },
+    {
+      "FIELD1": "Viršutinės šakės šarnyro keitimas",
+      "FIELD2": "15-30"
+    },
+    {
+      "FIELD1": "Apatinės šakės keitimas",
+      "FIELD2": "15-35 €"
+    },
+    {
+      "FIELD1": "Viršutinės šakės keitimas",
+      "FIELD2": "15-35 €"
+    },
+    {
+      "FIELD1": "Priekinio rato guolio keitimas",
+      "FIELD2": "30-60 €"
+    },
+    {
+      "FIELD1": "Rato guolio reguliavimas",
+      "FIELD2": "nuo 6 €"
+    },
+    {
+      "FIELD1": "Pusašio pakabinamo guolio keitimas",
+      "FIELD2": "23-70 €"
+    },
+    {
+      "FIELD1": "Vairo kolonėlės nuėmimas/pastatymas",
+      "FIELD2": "40-140 €"
+    },
+    {
+      "FIELD1": "Vairo kolonėlės remontas (nuimtai kolonelėi)",
+      "FIELD2": "55-300 €"
+    },
+    {
+      "FIELD1": "Vairo kolonėlės gumų keitimas",
+      "FIELD2": "25-30 €"
+    },
+    {
+      "FIELD1": "Priekinio amortizatoriaus keitimas",
+      "FIELD2": "25-40 €"
+    },
+    {
+      "FIELD1": "Galinio amortizatoriaus keitimas",
+      "FIELD2": "15-40 €"
+    },
+    {
+      "FIELD1": "Vairo traukės antgalio keitimas",
+      "FIELD2": "15-20 €"
+    },
+    {
+      "FIELD1": "Granatos keitimas",
+      "FIELD2": "30-50 €"
+    },
+    {
+      "FIELD1": "Granatos apsaugos keitimas",
+      "FIELD2": "30-50 €"
+    },
+    {
+      "FIELD1": "Stabilizatoriaus įvorės keitimas",
+      "FIELD2": "4-20 €"
+    },
+    {
+      "FIELD1": "Stabilizatoriaus traukės keitimas",
+      "FIELD2": "10-15 €"
+    },
+    {
+      "FIELD1": "Galinio tilto pusašio keitimas",
+      "FIELD2": "23-60 €"
+    },
+    {
+      "FIELD1": "Galinės reaktyvinės traukės keitimas",
+      "FIELD2": "17-45 €"
+    },
+    {
+      "FIELD1": "Spyruoklės keitimas",
+      "FIELD2": "15-35 €"
+    },
+    {
+      "FIELD1": "Vairo stiprintuvo skysčio keitimas",
+      "FIELD2": "nuo 9 €"
+    },
+    {
+      "FIELD1": "Vairo traukės keitimas",
+      "FIELD2": "nuo 15 €"
+    },
+    {
+      "FIELD1": "Stabdžių remontas",
+      "FIELD2": ""
+    },
+    {
+      "FIELD1": "Stabdžių sistemos tikrinimas / profilaktika",
+      "FIELD2": "nuo 10 €"
+    },
+    {
+      "FIELD1": "Diskinių stabdžių kaladėlių keitimas",
+      "FIELD2": "20-30 €"
+    },
+    {
+      "FIELD1": "Būgninių stabdžių kaladėlių keitimas",
+      "FIELD2": "25-40 €"
+    },
+    {
+      "FIELD1": "Rankinio stabdžio kaladėlių keitimas",
+      "FIELD2": "25-40€"
+    },
+    {
+      "FIELD1": "Stabdžių disko pakeitimas 1 vnt.",
+      "FIELD2": "15-20 €"
+    },
+    {
+      "FIELD1": "Stabdžių cilindriuko keitimas",
+      "FIELD2": "nuo 9 €"
+    },
+    {
+      "FIELD1": "Stabdžių žarnelės keitimas",
+      "FIELD2": "nuo 9 €"
+    },
+    {
+      "FIELD1": "Stabdžių skysčio keitimas su nuorinimu",
+      "FIELD2": "12-20 €"
+    },
+    {
+      "FIELD1": "Rankinio lyno keitimas",
+      "FIELD2": "12-40 €"
+    },
+    {
+      "FIELD1": "Rankinio stabdžio reguliavimas",
+      "FIELD2": "6-15 €"
+    },
+    {
+      "FIELD1": "Stabdžių nuorinimas (vienas ratas)",
+      "FIELD2": "2-5 €"
+    },
+    {
+      "FIELD1": "Pagrindinio stabdžių cilindro keitimas",
+      "FIELD2": "nuo 23 €"
+    },
+    {
+      "FIELD1": "Suporto nuėmimas/pastatymas",
+      "FIELD2": "nuo 15 €"
+    },
+    {
+      "FIELD1": "Suporto remontas",
+      "FIELD2": "15-60 €"
+    },
+    {
+      "FIELD1": "Suporto kreipiančiųjų profilaktika",
+      "FIELD2": "nuo 6 €"
+    },
+    {
+      "FIELD1": "Duslintuvas",
+      "FIELD2": ""
+    },
+    {
+      "FIELD1": "Suvirinimo darbai (1 val.)",
+      "FIELD2": "nuo 30 €"
+    },
+    {
+      "FIELD1": "Galinio bakelio keitimas",
+      "FIELD2": "15-23 €"
+    },
+    {
+      "FIELD1": "Vidurinės dalies keitimas",
+      "FIELD2": "20-35 €"
+    },
+    {
+      "FIELD1": "Gofros keitimas",
+      "FIELD2": "nuo 20 €"
+    },
+    {
+      "FIELD1": "Rezonatoriaus bakelio įpjovimas vietoj katalizatoriaus",
+      "FIELD2": "nuo 23 €"
+    },
+    {
+      "FIELD1": "Kolektoriaus tarpinės keitimas",
+      "FIELD2": "35-150 €"
+    },
+    {
+      "FIELD1": "Sankaba",
+      "FIELD2": ""
+    },
+    {
+      "FIELD1": "Pavarų dėžės nuėmimas / pastatymas",
+      "FIELD2": "nuo 100 €"
+    },
+    {
+      "FIELD1": "Sankabos keitimas",
+      "FIELD2": "nuo 100 €"
+    },
+    {
+      "FIELD1": "Sankabos reguliavimas",
+      "FIELD2": "nuo 9-15 €"
+    },
+    {
+      "FIELD1": "Sankabos lyno keitimas",
+      "FIELD2": "9-40 €"
+    },
+    {
+      "FIELD1": "Darbinio / pagrindinio cilindriuko keitimas",
+      "FIELD2": "17-140€"
+    },
+    {
+      "FIELD1": "Kardaninis velenas",
+      "FIELD2": ""
+    },
+    {
+      "FIELD1": "Kardaninio veleno nuėmimas / pastatymas",
+      "FIELD2": "26-70 €"
+    },
+    {
+      "FIELD1": "Pakabinamo guolio keitimas",
+      "FIELD2": "26-50 €"
+    },
+    {
+      "FIELD1": "Pakabinamo guolio apkabos keitimas",
+      "FIELD2": "nuo 12 €"
+    },
+    {
+      "FIELD1": "Kryžmės keitimas",
+      "FIELD2": "17-80 €"
+    },
+    {
+      "FIELD1": "Autoelektriko paslaugos",
+      "FIELD2": ""
+    },
+    {
+      "FIELD1": "Elektros instaliacijos remontas, ( 1 val.)",
+      "FIELD2": "nuo 25 €"
+    },
+    {
+      "FIELD1": "Generatoriaus nuėmimas / pastatymas",
+      "FIELD2": "20-70€"
+    },
+    {
+      "FIELD1": "Generatoriaus išardymas / surinkimas",
+      "FIELD2": "nuo 9 €"
+    },
+    {
+      "FIELD1": "Generatoriaus remontas",
+      "FIELD2": "nuo 20 €"
+    },
+    {
+      "FIELD1": "Starterio nuėmimas / pastatymas",
+      "FIELD2": "9-70 €"
+    },
+    {
+      "FIELD1": "Starterio išardymas / surinkimas",
+      "FIELD2": "nuo 9 €"
+    },
+    {
+      "FIELD1": "Starterio remontas",
+      "FIELD2": "nuo 20 €"
+    },
+    {
+      "FIELD1": "Starterio pritraukimo rėlės keitimas",
+      "FIELD2": "nuo 15 €"
+    },
+    {
+      "FIELD1": "Šviesų reguliavimas",
+      "FIELD2": "nuo 6 €"
+    },
+    {
+      "FIELD1": "Lemputės keitimas",
+      "FIELD2": "2-35 €"
+    },
+    {
+      "FIELD1": "Žibinto keitimas",
+      "FIELD2": "nuo 12 €"
+    },
+    {
+      "FIELD1": "Posūkio žibinto keitimas",
+      "FIELD2": "nuo 7 €"
+    },
+    {
+      "FIELD1": "Numerio apšvietimo tvarkymas",
+      "FIELD2": "4-12 €"
+    },
+    {
+      "FIELD1": "Kaitinimo žvakės tikrinimas / keitimas",
+      "FIELD2": "nuo 9 €"
+    },
+    {
+      "FIELD1": "Saugiklio keitimas",
+      "FIELD2": "nuo 2 €"
+    },
+    {
+      "FIELD1": "Degimo spynelės remontas",
+      "FIELD2": "15-20 €"
+    },
+    {
+      "FIELD1": "Rėlės keitimas",
+      "FIELD2": "2-17 €"
+    },
+    {
+      "FIELD1": "Langų apipūtimo ventiliatoriaus nuėmimas / pastatymas",
+      "FIELD2": "12-140 €"
+    },
+    {
+      "FIELD1": "Durų stiklo pakėlėjo nuėmimas / pastatymas",
+      "FIELD2": "nuo 23 €"
+    },
+    {
+      "FIELD1": "Durų stiklo pakėlėjo remontas",
+      "FIELD2": "15-49 €"
+    },
+    {
+      "FIELD1": "Radiatoriaus ventiliatoriaus nuėmimas / pastatymas",
+      "FIELD2": "nuo 20 €"
+    },
+    {
+      "FIELD1": "Radiatoriaus ventiliatoriaus tvarkymas",
+      "FIELD2": "nuo 15 €"
+    },
+    {
+      "FIELD1": "Audio aparatūros pajungimas",
+      "FIELD2": "nuo 12 €"
+    },
+    {
+      "FIELD1": "Akumuliatoriaus keitimas",
+      "FIELD2": "nuo 6 €"
+    },
+    {
+      "FIELD1": "Akumuliatoriaus pakrovimas",
+      "FIELD2": "nuo 6 €"
+    }
+   ]
